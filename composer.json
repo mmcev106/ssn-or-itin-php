@@ -1,0 +1,19 @@
+{
+    "name": "mmcev106/ssn-or-itin-php",
+    "description": "Determine whether a number is a social security number (SSN) or an Individual Taxpayer Identification Number (ITIN).",
+    "keywords": ["social", "security", "number", "ssn", "individual", "taxpayer", "identification", "number", "itin"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mark McEver",
+            "email": "mark@fastmail.net"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-0": {
+            "Mmcev106\\": "src/"
+        }
+    }
+}
