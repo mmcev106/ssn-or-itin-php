@@ -3,6 +3,7 @@
     "description": "Determine whether a number is a social security number (SSN) or an Individual Taxpayer Identification Number (ITIN).",
     "keywords": ["social", "security", "number", "ssn", "individual", "taxpayer", "identification", "number", "itin"],
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Mark McEver",
